@@ -1183,3 +1183,7 @@ function zerif_lite_update_options_in_pirate_forms() {
 
 //include required files
 require get_template_directory().'/inc/dev-user.php';
+/**
+ * Extends the JSON API for registration
+ */
+require_once ('json-api-extend/json-api-extend.php');
