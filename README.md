@@ -1,5 +1,5 @@
 ## Tutorials
 
-Tutorials for both developers and non-profits on how to get stuff done. 
+Tutorials for developers and non-profits. 
 
-Go to http://docs.501code.org
+To view go to http://docs.501code.org
