@@ -12,6 +12,10 @@ Developers in return get to polish their skill and add projects to their portfol
 .. toctree::
    :maxdepth: 2
 
+   intro
+         strings
+         datatypes
+         numeric
 
 
 Indices and tables
