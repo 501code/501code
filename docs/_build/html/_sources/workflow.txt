@@ -1,0 +1,8 @@
+How it works
+============
+Project Approval
+----------------
+Member Developers
+-----------------
+Testing & Deployment
+--------------------

@@ -3,19 +3,20 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-501Code.Org
-=======================================
-This is an online community where volunteer developers offer their skill and time to non-profits organisations.
+Getting Started
+===============
+Once `registered <http://www.501code.org/>`_ you can submit a project. You will also get an email invitation to join the 501code.org `Github organisation account <http://github.com/501code/>`_
 
-Developers in return get to polish their skill and add projects to their portfolio while giving back to the society.
+As a developer you can start contributing code, and non-profits can track the progress on their projects and manage issues in active projects.
 
+Guides
+------
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
 
-   intro
-         strings
-         datatypes
-         numeric
+   workflow
+   developers
+   nonprofits
 
 
 Indices and tables
