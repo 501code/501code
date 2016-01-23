@@ -14,9 +14,11 @@ Guides
 .. toctree::
    :maxdepth: 3
 
-   workflow
-   developers
-   nonprofits
+   submission
+   development
+   issues
+   testing_deployment
+   coding_guidelines
 
 
 Indices and tables

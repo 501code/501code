@@ -1,5 +1,3 @@
-How it works
-============
 Project Submission & Approval
 -----------------------------
 Anyone registered can submit a project on behalf of a non-profit organisation. The project can
@@ -10,10 +8,3 @@ descriptions of the projects and the issues they are facing.
 
 Projects don't have to be started from scratch, they can be existing projects like an old website that could
 use a modern look, or a broken mobile app et cetera.
-
-Development Process
--------------------
-
-
-Testing & Deployment
---------------------
